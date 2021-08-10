@@ -1,5 +1,8 @@
 import React, { useState } from 'react';
 
+// Component needs to start with uppercase
+// 'use' has to be inside a function/component body
+// 'use' can't be called conditionally
 const UseStateBasics = () => {
 
   // Setup 'useState' which returns two values.
